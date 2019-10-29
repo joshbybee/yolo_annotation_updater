@@ -3,3 +3,11 @@
 ################################################################################
 
 /YoloAnnotationUpdater/.vs/YoloAnnotationUpdater/v16
+/YoloAnnotationUpdater/YoloAnnotationUpdater.App/bin/
+/YoloAnnotationUpdater/YoloAnnotationUpdater.Lib/bin/
+/YoloAnnotationUpdater/YoloAnnotationUpdater.Tests/bin/
+/YoloAnnotationUpdater/YoloAnnotationUpdater.App/obj/
+/YoloAnnotationUpdater/YoloAnnotationUpdater.Lib/obj/
+/YoloAnnotationUpdater/YoloAnnotationUpdater.Tests/obj/
+/YoloAnnotationUpdater/.vs/YoloAnnotationUpdater/DesignTimeBuild/.dtbcache
+/YoloAnnotationUpdater/YoloAnnotationUpdater.sln.DotSettings.user

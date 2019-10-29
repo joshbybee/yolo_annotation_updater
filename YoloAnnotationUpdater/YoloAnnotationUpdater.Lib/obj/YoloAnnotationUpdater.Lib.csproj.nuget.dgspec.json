@@ -44,6 +44,10 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "CommandLineParser": {
+              "target": "Package",
+              "version": "[2.6.0, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
