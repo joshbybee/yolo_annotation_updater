@@ -11,3 +11,5 @@
 /YoloAnnotationUpdater/YoloAnnotationUpdater.Tests/obj/
 /YoloAnnotationUpdater/.vs/YoloAnnotationUpdater/DesignTimeBuild/.dtbcache
 /YoloAnnotationUpdater/YoloAnnotationUpdater.sln.DotSettings.user
+/YoloAnnotationUpdater/YoloAnnotationUpdater.App/Properties/launchSettings.json
+/YoloAnnotationUpdater/.vs/YoloAnnotationUpdater/config/applicationhost.config
