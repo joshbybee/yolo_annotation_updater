@@ -1,0 +1,7 @@
+﻿ape
+cat
+cheetah
+dog
+elephant
+mouse
+orangutan
